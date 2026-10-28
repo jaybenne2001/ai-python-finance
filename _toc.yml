@@ -1,0 +1,23 @@
+format: jb-book
+root: README
+chapters:
+  - file: chapters/01-introduction
+  - file: chapters/02-the-python-finance-toolkit
+  - file: chapters/03-getting-and-cleaning-market-data
+  - file: chapters/04-core-finance-in-code
+  - file: chapters/05-portfolio-analysis-and-risk
+  - file: chapters/06-portfolio-optimization
+  - file: chapters/07-factor-models
+  - file: chapters/08-monte-carlo-simulation
+  - file: chapters/09-value-at-risk-and-stress-testing
+  - file: chapters/10-backtesting-with-transaction-costs
+  - file: chapters/11-fundamental-analysis-with-sec-edgar-data
+  - file: chapters/12-machine-learning-where-ai-fits
+  - file: chapters/13-nlp-and-llms-on-financial-text
+  - file: chapters/14-ai-as-a-sql-scalar-function
+  - file: chapters/15-scaling-up-apache-spark-and-big-data
+  - file: chapters/16-real-time-streaming-with-apache-kafka-and-apache-f
+  - file: chapters/17-the-financial-lakehouse-apache-iceberg-parquet-and
+  - file: chapters/18-federated-queries-with-starburst-and-trino
+  - file: chapters/19-limits-and-pitfalls
+  - file: chapters/20-getting-started

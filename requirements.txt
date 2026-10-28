@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+statsmodels
+yfinance
+pandas-datareader
+matplotlib
+scikit-learn
+requests
+anthropic
+pyspark
+trino
+jupyter-book
